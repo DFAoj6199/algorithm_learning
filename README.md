@@ -7,4 +7,4 @@
 
 ## 赛题
 
-- [The 2026 ICPC Asia East Continent Online Contest (II) - L](CCPC Asian EC（Ⅱ）- F-Loop.md)
+- [The 2026 ICPC Asia East Continent Online Contest (II) - L](./赛题/CCPC Asian EC（Ⅱ）- F-Loop.md)
